@@ -1,6 +1,7 @@
 {
   "artist": [
     {
+      "id":1,
       "name": "Duman",
       "imgSrc": "https://i.scdn.co/image/ab6761610000e5ebed30111b433e140bfdd0a038",
       "genre": "Rock",
@@ -17,6 +18,7 @@
       ]
     },
     {
+      "id":2,
       "name": "Mavi gri",
       "imgSrc": "https://yt3.googleusercontent.com/ytc/AIdro_mrTgCZYK67ImZ-jQCXLZhCMN3nkd8AJkJhSnsfh_kkZXc=s900-c-k-c0x00ffffff-no-rj",
       "genre": "Rock",
@@ -27,6 +29,7 @@
       "songs": []
     },
     {
+      "id":3,
       "name": "Model",
       "imgSrc": "https://i.scdn.co/image/ab67616d00001e023f5526e4e33d3ae8d79db0b1",
       "genre": "Rock",
@@ -37,6 +40,7 @@
       "songs": []
     },
     {
+      "id":4,
       "name": "Onur can ozcan",
       "imgSrc": "https://i.scdn.co/image/ab67616d00001e02123181f959287c9137df7159",
       "genre": "Pop",
